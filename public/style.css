@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background: #2883FF;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-items: center;
+
+}
+
+a img {
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+
+
+}
+
+.navbar a {
+
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffffff;
+}
+
+
+
+.cslr {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* CSS for the text section */
+.text-section {
+    flex: 1;
+    padding: 20px;
+    
+}
+
+/* CSS for the image section */
+.image-section {
+    flex: 1;
+    padding: 20px;
+   
+}
+.button{
+    background: #2883FF;
+
+}
+
+.card img{
+    Width:
+    149px;
+    Height:
+    149px;
+}
+
+.tv-section{
+    margin:10px 0 10px 0;
+}
+
+.tv-section button{
+    margin: 0 5px;
+    width: 25%;
+}
+
+.ftco-gallery{
+    background-image: url('/images/subs.png');
+}
+
+
+.ftco-footer{
+    background-image: url('/images/footer.png')
+}
+
