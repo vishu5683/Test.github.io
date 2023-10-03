@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/Test.github.io/static/css/main.523cc61a.css",
-    "main.js": "/Test.github.io/static/js/main.214c3abc.js",
+    "main.js": "/Test.github.io/static/js/main.7c16df41.js",
     "static/media/subs.png": "/Test.github.io/static/media/subs.018b1c8bb963b16e354a.png",
     "static/media/footer.png": "/Test.github.io/static/media/footer.8e4580a8cf84bf2c01e9.png",
+    "static/media/pic2.jpeg": "/Test.github.io/static/media/pic2.3a6fa688b9dc8cb74ac5.jpeg",
+    "static/media/pic1.jpeg": "/Test.github.io/static/media/pic1.532b4ce8839924128e17.jpeg",
+    "static/media/pic3.jpeg": "/Test.github.io/static/media/pic3.8c0c77d82f2ff391ae3e.jpeg",
     "index.html": "/Test.github.io/index.html",
     "main.523cc61a.css.map": "/Test.github.io/static/css/main.523cc61a.css.map",
-    "main.214c3abc.js.map": "/Test.github.io/static/js/main.214c3abc.js.map"
+    "main.7c16df41.js.map": "/Test.github.io/static/js/main.7c16df41.js.map"
   },
   "entrypoints": [
     "static/css/main.523cc61a.css",
-    "static/js/main.214c3abc.js"
+    "static/js/main.7c16df41.js"
   ]
 }
