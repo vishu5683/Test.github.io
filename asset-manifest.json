@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/vishu5683/Test.github.io.git/static/js/main.10a5cfd4.js",
-    "index.html": "/vishu5683/Test.github.io.git/index.html",
-    "main.10a5cfd4.js.map": "/vishu5683/Test.github.io.git/static/js/main.10a5cfd4.js.map"
+    "main.js": "/Test.github.io/static/js/main.10a5cfd4.js",
+    "index.html": "/Test.github.io/index.html",
+    "main.10a5cfd4.js.map": "/Test.github.io/static/js/main.10a5cfd4.js.map"
   },
   "entrypoints": [
     "static/js/main.10a5cfd4.js"
